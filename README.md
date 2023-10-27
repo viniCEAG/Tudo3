@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="fivecool.css">
+    <link rel="stylesheet" 
+        </brackground-color:aqua>
+href="fivecool.css">
 </head>
 <body>
 <h1>Receita de hambúrguer caseiro</h1>
